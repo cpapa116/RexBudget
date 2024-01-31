@@ -1,0 +1,5 @@
+wants for design
+
+ability to add an account where the user can specify how much money is inside it
+ability to view an account where the user can see how much money is currently in their account
+ability to modify how much money is in the user's account with + or - (confirmation can be added at some point)
